@@ -23,30 +23,31 @@ import com.huyouxiao.space.dao.mapper.UserIdentityEntityMapper;
 import com.huyouxiao.space.dao.mapper.UserEntityMapper;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 
 @Slf4j
-@Service(value = "userService")
+@Service
 public class UserServiceImpl implements UserService {
 
   @Autowired
-  private UserEntityMapper userMapper;
+  private UserEntityMapper userEntityMapper;
 
   @Autowired
-  private UserCredentialEntityMapper userCredentialMapper;
+  private UserCredentialEntityMapper userCredentialEntityMapper;
 
 
   @Autowired
-  private UserIdentityEntityMapper userIdentityMapper;
+  private UserIdentityEntityMapper userIdentityEntityMapper;
 
   @Autowired
   private MailService mailService;
 
-  // @Value("${poetryname.one.time.password.length}")
+  @Value("${space.one.time.password.length}")
   private Integer oneTimePasswordLength;
 
 
-  // @Value("${poetryname.active.code.length}")
+  @Value("${space.active.code.length}")
   private Integer activeCodeLength;
 
 
@@ -59,7 +60,7 @@ public class UserServiceImpl implements UserService {
   }
 
   private UserEntity checkPhoneExist(String phone) {
-    UserEntity user = userMapper.selectByUserPhone(phone);
+    UserEntity user = userEntityMapper.selectByUserPhone(phone);
     // phone is not used.
     if (null == user) {
       return null;
@@ -75,7 +76,7 @@ public class UserServiceImpl implements UserService {
   }
 
   private void checkMailExist(String mail, UserEntity user) {
-    UserIdentityEntity userIdentity = userIdentityMapper.selectByValue(UserIdentityTypeEnum.EMAIL.name(), mail);
+    UserIdentityEntity userIdentity = userIdentityEntityMapper.selectByValue(UserIdentityTypeEnum.EMAIL.name(), mail);
 
     // email is not used.
     if (null == userIdentity) {
@@ -99,15 +100,15 @@ public class UserServiceImpl implements UserService {
       user.setPhone(request.getPhone());
       user.setStatus(UserStatusEnum.INACTIVE.name());
       user.setDataStatus(DataStatusEnum.NORMAL.getCode());
-      userMapper.insert(user);
+      userEntityMapper.insert(user);
     } else {
       log.warn("user is already exist but not active. not create user again. but need obsolete previous setting password and one time password.");
       // delete email active code.
-      userCredentialMapper.obsoleteCredentialByType(user.getId(), CredentialTypeEnum.ACTIVE_CODE.getCode());
+      userCredentialEntityMapper.obsoleteCredentialByType(user.getId(), CredentialTypeEnum.ACTIVE_CODE.getCode());
       // delete current one password.
-      userCredentialMapper.obsoleteCredentialByType(user.getId(), CredentialTypeEnum.ONE_TIME_PASSWORD.getCode());
+      userCredentialEntityMapper.obsoleteCredentialByType(user.getId(), CredentialTypeEnum.ONE_TIME_PASSWORD.getCode());
       // delete current password.
-      userCredentialMapper.obsoleteCredentialByType(user.getId(), CredentialTypeEnum.PASSWORD.getCode());
+      userCredentialEntityMapper.obsoleteCredentialByType(user.getId(), CredentialTypeEnum.PASSWORD.getCode());
     }
     // generate active code for email
     String activeCode = PasswordGenerator.generatePassword(activeCodeLength);
@@ -122,7 +123,7 @@ public class UserServiceImpl implements UserService {
     // set salt
     activeCodeCredential.setSalt(activeCodeEncryptionResult.getSalt());
 
-    userCredentialMapper.insert(activeCodeCredential);
+    userCredentialEntityMapper.insert(activeCodeCredential);
 
     // generate one time password for active
     String oneTimePassword = PasswordGenerator.generateOTP(oneTimePasswordLength);
@@ -137,7 +138,7 @@ public class UserServiceImpl implements UserService {
     // set salt
     otpCredential.setSalt(encryptionResult.getSalt());
 
-    userCredentialMapper.insert(otpCredential);
+    userCredentialEntityMapper.insert(otpCredential);
 
     // save user password.
     UserCredentialEntity passwordCredential = new UserCredentialEntity();
@@ -151,7 +152,7 @@ public class UserServiceImpl implements UserService {
     // set salt
     passwordCredential.setSalt(encryptionResult.getSalt());
 
-    userCredentialMapper.insert(passwordCredential);
+    userCredentialEntityMapper.insert(passwordCredential);
 
     // send one time password to user.
     sendActiveEmail(request.getEmail(), user.getId(), activeCode, oneTimePassword);

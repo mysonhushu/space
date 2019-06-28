@@ -1,4 +1,4 @@
-package com.huyouxiao.space.dao;
+package com.huyouxiao.space.dao.mapper;
 
 public interface GenericMapper<T, P> {
 
