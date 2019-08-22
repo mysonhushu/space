@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.huyouxiao.space.dao.mapper.PoetryIndexEntityMapper" >
+    <insert id="batchInsert" parameterType="java.util.List">
+        insert ignore  into poetry_index(first_word, second_word, third_word, fourth_word, words, words_pinyin, words_letter, poetry_ids, poetry_ids_size) values
+        <foreach collection="list" item="item" index="index"
+                 separator=",">
+            (#{item.firstWord,      jdbcType=VARCHAR},
+            #{item.secondWord,      jdbcType=VARCHAR},
+            #{item.thirdWord,      jdbcType=VARCHAR},
+            #{item.fourthWord,      jdbcType=VARCHAR},
+            #{item.words,            jdbcType=VARCHAR},
+            #{item.wordsPinyin,      jdbcType=VARCHAR},
+            #{item.wordsLetter,      jdbcType=VARCHAR},
+            #{item.poetryIds,      jdbcType=VARCHAR},
+            #{item.poetryIdsSize,      jdbcType=BIGINT})
+        </foreach>
+    </insert>
+
+    <select id="selectByWordsLetter"  resultMap="ResultMapWithBLOBs">
+        select
+        <include refid="Base_Column_List" />
+        ,
+        <include refid="Blob_Column_List" />
+        from poetry_index
+        where is_name='1'
+        <if test="wordsLetter != null" >
+            and words_letter = #{wordsLetter,jdbcType=VARCHAR}
+        </if>
+        <if test="wantField != null" >
+            <bind name="pattern" value="'%' + wantField + '%'" />
+            and words like #{pattern}
+        </if>
+    </select>
+</mapper>

@@ -1,0 +1,972 @@
+<!-- cachefile cache/cached--database-dblist.php-year-2018.html  --><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+<head>
+<title>Aviation Safety Network > ASN Aviation Safety Database > 2018</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+  <meta http-equiv="content-language" content="" />
+  <meta name="viewport"	 content="width=device-width, initial-scale=1" />
+  <meta name="author" content="Harro Ranter" />
+  <meta name="description" content="Aviation Safety Network: Aviation Safety Network: Databases containing descriptions of over 11000 airliner write-offs, hijackings and military aircraft accidents." />
+    <meta name="keywords" content="aircraft accident, aviation, accidents, safety, crashes, disasters" />
+    	
+    	
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:site" content="@AviationSafety" />
+	<meta name="twitter:title" content="Aviation Safety Network > ASN Aviation Safety Database > 2018" />
+	<meta name="twitter:description" content="Aviation Safety Network: Aviation Safety Network: Databases containing descriptions of over 11000 airliner write-offs, hijackings and military aircraft accidents." />
+	<meta name="twitter:dnt" content="on">
+	<meta property="og:type" content="website" /> 
+  <meta property="og:title" content="Aviation Safety Network > ASN Aviation Safety Database > 2018" /> 
+  <meta property="og:description" content="Aviation Safety Network: Aviation Safety Network: Databases containing descriptions of over 11000 airliner write-offs, hijackings and military aircraft accidents." /> 
+  <meta property="og:url" content="https://aviation-safety.net/database/dblist.php?Year=2018" /> 
+  <link rel="stylesheet" type="text/css" href="https://cdn.aviation-safety.net/totalY.min.css" media="screen" />
+  <link rel="stylesheet" type="text/css" href="https://cdn.aviation-safety.net/totalprint.css" media="print" />
+</head>
+<body>
+
+</head>
+<body>
+
+<script src="https://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-707531-1";
+urchinTracker();
+</script>
+<!-- Year=2018 --> 
+	<div id="page-wrap">
+		<div id="inside">
+			
+			<div class="photodisplay aligncenter">
+			<img src="/graphics/asn_header3.png" width="800" height="115" alt="ASN logo" usemap="#mapname" />
+<map name="mapname">
+  <area shape="rect" coords="0,0,580,115" href="https://aviation-safety.net/">
+  <area shape="rect" coords="580,0,800,115" href="http://flightsafety.org/">
+</map>
+			
+			</div> <!-- close header  -->
+			
+			<div class="navigation">
+	<ul>	
+	<li><a href="/">Home </a></li>
+ 	<li><a href="//aviation-safety.net/airlinesafety/">Aviation safety </a></li>
+	<li class="active"><a href="//aviation-safety.net/database/databases.php">Database </a></li>
+	<li><a href="//aviation-safety.net/investigation/">Investigation </a></li>
+	<li><a href="//news.aviation-safety.net/">News</a></li>
+	<li><a href="//aviation-safety.net/photos/">Photos </a></li>
+	<li><a href="//aviation-safety.net/statistics/">Statistics </a></li>
+	<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+	</ul>
+	<ul>
+	<li><a href="//aviation-safety.net/about/contact.php?p=ASN_Aviation_Safety_Database|2018|||">Contact us</a></li>
+	<li><a href="//aviation-safety.net/about/">About</a></li>
+	</ul>
+
+	</div>   <!-- close navigation -->
+	
+	<div class="trail" id="noprint"> 
+		<a href="/">Home</a> &#187; <a href="/database/">ASN Aviation Safety Database</a> 
+	</div>    <!-- close trail  -->
+	<div class="pagetitle">
+2018			
+			</div>
+			<div class="lastupdated">Last updated: 30 July 2019</div>
+
+<div id="contentwrapper">
+<div id="contentcolumnfull"><div class="innertube">
+<div class="languagebar">
+<span class="languages" id="noprint"> 
+languages: 
+<a href="/database/dblist.php?Year=2018"><img src="/graphics/lang_en.gif" alt="English" border="0" /></a>
+<a href="/database/dblist.php?Year=2018&lang=fr"><img src="/graphics/lang_fr.gif" alt="Français" border="0" /></a>
+<a href="/database/dblist.php?Year=2018&lang=nl"><img src="/graphics/lang_nl.gif" alt="Nederlands" border="0" /></a>
+<a href="/database/dblist.php?Year=2018&lang=de"><img src="/graphics/lang_de.gif" alt="Deutsch" border="0" /></a>
+<a href="/database/dblist.php?id=&lang=es"><img src="/graphics/lang_es.gif" alt="Espanol" border="0" /></a>
+</span>
+</div>
+
+
+<!--  start content  -->
+
+<!-- syntax functie DatabaseList($page,$sorteer,$field,$var,%,$listing,$mode,$scriptname) -->
+
+
+	<!-- syntax functie DatabaseList(1,datekey,datekey,2018%,%,full,Year,?Year=2018) -->
+	
+
+
+
+
+
+<p /><span class="caption">206 occurrences in the ASN safety database, showing occurrence 1 -  100</span><p /><div class="pagenumbers"><span class="current">1</span> <a href="?Year=2018&lang=&page=2">2</a> <a href="?Year=2018&lang=&page=3">3</a> </div><table><tr><th class="list">date</th>
+<th class="list">type</th>
+<th class="list">registration</th>
+<th class="list">operator</th>
+<th class="list">fat.</th>
+<th class="list">location</th>
+<th class="list">&nbsp; </th>
+<th class="list">pic</th>
+<th class="list"><a href="/database/legend.php" class="headerlink">cat</a></th></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180104-0">04-JAN-2018</a></nobr></td><td class="list"><NOBR>Gulfstream G150</NOBR></td>
+<td class="list">OE-GKA</td>
+<td class="list">Private Airlines Germany</td>
+<td class="listdata">0+ 1</td>
+<td class="list">Kittilä Airp...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/OH.gif" title="Finland" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180105-0">05-JAN-2018</a></nobr></td><td class="list"><NOBR>Boeing 737-8CT (WL)</NOBR></td>
+<td class="list">C-FDMB</td>
+<td class="list">WestJet</td>
+<td class="listdata">0</td>
+<td class="list">Toronto-Pear...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/C.gif" title="Canada" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180105-1">05-JAN-2018</a></nobr></td><td class="list"><NOBR>Boeing 737-8FH (WL)</NOBR></td>
+<td class="list">C-FPRP</td>
+<td class="list">Sunwing Airlines</td>
+<td class="listdata">0</td>
+<td class="list">Toronto-Pear...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/C.gif" title="Canada" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180106-0">06-JAN-2018</a></nobr></td><td class="list"><NOBR>Antonov An-2TP</NOBR></td>
+<td class="list">YV1944</td>
+<td class="list">Unknown</td>
+<td class="listdata">0</td>
+<td class="list">La Paragua A...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/YV.gif" title="Venezuela" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180107-0">07-JAN-2018</a></nobr></td><td class="list"><NOBR>Cessna 208B Grand Caravan</NOBR></td>
+<td class="list">5Y-FDC</td>
+<td class="list">Unknown</td>
+<td class="listdata">0+ 1</td>
+<td class="list">Akobo</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/STss.gif" title="South Sudan" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180109-0">09-JAN-2018</a></nobr></td><td class="list"><NOBR>Embraer EMB-110P1 Bandeirante</NOBR></td>
+<td class="list">C6-MIC</td>
+<td class="list">Pineapple Air</td>
+<td class="listdata">0</td>
+<td class="list">Governor's H...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/C6.gif" title="Bahamas" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180110-0">10-JAN-2018</a></nobr></td><td class="list"><NOBR>Swearingen SA227-AT Merlin IVC</NOBR></td>
+<td class="list">N561UP</td>
+<td class="list">Ameriflight</td>
+<td class="listdata">0</td>
+<td class="list">Rock Springs...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/N.gif" title="USA" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180113-0">13-JAN-2018</a></nobr></td><td class="list"><NOBR>Boeing 737-82R (WL)</NOBR></td>
+<td class="list">TC-CPF</td>
+<td class="list">Pegasus Airlines</td>
+<td class="listdata">0</td>
+<td class="list">Trabzon Airp...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/TC.gif" title="Turkey" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180116-0">16-JAN-2018</a></nobr></td><td class="list"><NOBR>BAe BAe-748-347 Srs. 2A</NOBR></td>
+<td class="list">S2-AAX</td>
+<td class="list">Bismillah Airlines</td>
+<td class="listdata">0</td>
+<td class="list">Jessore Airp...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/S2.gif" title="Bangladesh" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180116-1">16-JAN-2018</a></nobr></td><td class="list"><NOBR>Antonov An-2</NOBR></td>
+<td class="list">&nbsp;</td>
+<td class="list">Kazakhstan Air Defence Force</td>
+<td class="listdata">0</td>
+<td class="list">near Zhetygen Air...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/UN.gif" title="Kazakhstan" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180117-0">17-JAN-2018</a></nobr></td><td class="list"><NOBR>IPTN/CASA CN-235M-100</NOBR></td>
+<td class="list">98-148</td>
+<td class="list">Turkish AF</td>
+<td class="listdata">3</td>
+<td class="list">Hodulluca Me...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/TC.gif" title="Turkey" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180118-0">18-JAN-2018</a></nobr></td><td class="list"><NOBR>Convair CV-580F</NOBR></td>
+<td class="list">XA-TRB</td>
+<td class="list">Air Tribe</td>
+<td class="listdata">0</td>
+<td class="list">Brownsville-...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/N.gif" title="USA" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180120-0">20-JAN-2018</a></nobr></td><td class="list"><NOBR>Embraer EMB-120ER Brasilia</NOBR></td>
+<td class="list">5Y-CEI</td>
+<td class="list">European Union, lsf AirTraffic Africa</td>
+<td class="listdata">0</td>
+<td class="list">Mogadishu Ad...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/6O.gif" title="Somalia" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180120-1">20-JAN-2018</a></nobr></td><td class="list"><NOBR>Let L-410UVP</NOBR></td>
+<td class="list">UR-VTV</td>
+<td class="list">Galeyr Airline</td>
+<td class="listdata">0</td>
+<td class="list">Mogadishu Ad...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/6O.gif" title="Somalia" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180125-0">25-JAN-2018</a></nobr></td><td class="list"><NOBR>Gulfstream G200</NOBR></td>
+<td class="list">5N-BTF</td>
+<td class="list">Nestoil</td>
+<td class="listdata">0</td>
+<td class="list">Abuja Intern...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/5N.gif" title="Nigeria" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180125-1">25-JAN-2018</a></nobr></td><td class="list"><NOBR>Airbus A320</NOBR></td>
+<td class="list">&nbsp;</td>
+<td class="list">Unknown</td>
+<td class="listdata">0</td>
+<td class="list">Berlin-Schön...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/D.gif" title="Germany" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180129-0">29-JAN-2018</a></nobr></td><td class="list"><NOBR>Shaanxi Y-8GX-3</NOBR></td>
+<td class="list">30513</td>
+<td class="list">China Air Force</td>
+<td class="listdata">12</td>
+<td class="list">Zhengchang, ...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/B.gif" title="China" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180211-0">11-FEB-2018</a></nobr></td><td class="list"><NOBR>Antonov An-148-100B</NOBR></td>
+<td class="list">RA-61704</td>
+<td class="list">Saratov Airlines</td>
+<td class="listdata">71</td>
+<td class="list">near Stepanovskoy...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/RA.gif" title="Russia" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180216-0">16-FEB-2018</a></nobr></td><td class="list"><NOBR>Fokker 100</NOBR></td>
+<td class="list">EP-FQF</td>
+<td class="list">Qeshm Air</td>
+<td class="listdata">0</td>
+<td class="list">Mashhad Airp...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/EP.gif" title="Iran" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180218-0">18-FEB-2018</a></nobr></td><td class="list"><NOBR>ATR 72-212</NOBR></td>
+<td class="list">EP-ATS</td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/euban_20.gif" alt="EU blacklist" title="Iran Aseman Airlines is on the List of airlines banned within the EU" /> Iran Aseman Airlines</td>
+<td class="listdata">66</td>
+<td class="list">near Yasuj Airpor...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/EP.gif" title="Iran" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180220-0">20-FEB-2018</a></nobr></td><td class="list"><NOBR>MD-83</NOBR></td>
+<td class="list">5N-SRI</td>
+<td class="list">Dana Air</td>
+<td class="listdata">0</td>
+<td class="list">Port Harcour...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/5N.gif" title="Nigeria" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180221-0">21-FEB-2018</a></nobr></td><td class="list"><NOBR>Cessna 208B Grand Caravan</NOBR></td>
+<td class="list">G-BZAH</td>
+<td class="list">Army Parachute Association</td>
+<td class="listdata">0</td>
+<td class="list">Netheravon A...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/G.gif" title="U.K." /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180223-0">23-FEB-2018</a></nobr></td><td class="list"><NOBR>Beech B100 King Air</NOBR></td>
+<td class="list">C-GIAE</td>
+<td class="list">Island Express Air</td>
+<td class="listdata">0</td>
+<td class="list">Abbotsford A...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/C.gif" title="Canada" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180226-0">26-FEB-2018</a></nobr></td><td class="list"><NOBR>Beech A100 King Air</NOBR></td>
+<td class="list">C-GJXF</td>
+<td class="list">Strait Air</td>
+<td class="listdata">0</td>
+<td class="list">Havre-Saint-...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/C.gif" title="Canada" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180228-0">28-FEB-2018</a></nobr></td><td class="list"><NOBR>Airbus A320-214</NOBR></td>
+<td class="list">ES-SAN</td>
+<td class="list">SmartLynx Airlines Estonia</td>
+<td class="listdata">0</td>
+<td class="list">Tallinn-Lenn...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/ES.gif" title="Estonia" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180301-0">01-MAR-2018</a></nobr></td><td class="list"><NOBR>Beech 200 Super King Air</NOBR></td>
+<td class="list">YV1909</td>
+<td class="list">Unknown</td>
+<td class="listdata">0</td>
+<td class="list">Charallave-Ó...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/YV.gif" title="Venezuela" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180304-0">04-MAR-2018</a></nobr></td><td class="list"><NOBR>Boeing 737-322 (SF)</NOBR></td>
+<td class="list">9S-ASG</td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/euban_20.gif" alt="EU blacklist" title="Serve Air is on the List of airlines banned within the EU" /> Serve Air</td>
+<td class="listdata">0</td>
+<td class="list">Lubumbashi I...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/9Q.gif" title="D.R. Congo" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180306-0">06-MAR-2018</a></nobr></td><td class="list"><NOBR>Antonov An-26</NOBR></td>
+<td class="list">RF-92955/52</td>
+<td class="list">Russian AF</td>
+<td class="listdata">39</td>
+<td class="list">near Latakia-Khme...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/YK.gif" title="Syria" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180311-0">11-MAR-2018</a></nobr></td><td class="list"><NOBR>Canadair Challenger 604</NOBR></td>
+<td class="list">TC-TRB</td>
+<td class="list">MC Aviation</td>
+<td class="listdata">11</td>
+<td class="list">near Shahr-e Kurd</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/EP.gif" title="Iran" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180312-0">12-MAR-2018</a></nobr></td><td class="list"><NOBR>DHC-8-402Q Dash 8</NOBR></td>
+<td class="list">S2-AGU</td>
+<td class="list">US-Bangla Airlines</td>
+<td class="listdata">51</td>
+<td class="list">Kathmandu-Tr...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/9N.gif" title="Nepal" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180315-0">15-MAR-2018</a></nobr></td><td class="list"><NOBR>Beech B200 Super King Air</NOBR></td>
+<td class="list">YV3284 ?</td>
+<td class="list">Unknown</td>
+<td class="listdata">0</td>
+<td class="list">near Blue Creek, ...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/V3.gif" title="Belize" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180316-0">16-MAR-2018</a></nobr></td><td class="list"><NOBR>Beech C99</NOBR></td>
+<td class="list">N213AV</td>
+<td class="list">Ameriflight</td>
+<td class="listdata">0</td>
+<td class="list">Hastings Air...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/N.gif" title="USA" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180317-0">17-MAR-2018</a></nobr></td><td class="list"><NOBR>Canadair CRJ-200ER</NOBR></td>
+<td class="list">C-FDJA</td>
+<td class="list">Air Canada Express, opb Jazz Aviation</td>
+<td class="listdata">0</td>
+<td class="list">Montreal-Pie...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/C.gif" title="Canada" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180320-0">20-MAR-2018</a></nobr></td><td class="list"><NOBR>DHC-6 Twin Otter 300</NOBR></td>
+<td class="list">N716JP</td>
+<td class="list">Bald Mountain Air Services</td>
+<td class="listdata">0</td>
+<td class="list">near Deadhorse, AK</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/N.gif" title="USA" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180325-0">25-MAR-2018</a></nobr></td><td class="list"><NOBR>ATR 42-500</NOBR></td>
+<td class="list">F-GPYF</td>
+<td class="list">HOP!</td>
+<td class="listdata">0</td>
+<td class="list">Aurillac Air...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/F.gif" title="France" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">I2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180326-0">26-MAR-2018</a></nobr></td><td class="list"><NOBR>CASA C-212 Aviocar</NOBR></td>
+<td class="list">N217BH</td>
+<td class="list">Bighorn Airways</td>
+<td class="listdata">0</td>
+<td class="list">Sheridan Air...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/N.gif" title="USA" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">O2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180326-1">26-MAR-2018</a></nobr></td><td class="list"><NOBR>CASA C-212 Aviocar 200</NOBR></td>
+<td class="list">N107BH</td>
+<td class="list">Bighorn Airways</td>
+<td class="listdata">0</td>
+<td class="list">Sheridan Air...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/N.gif" title="USA" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180327-0">27-MAR-2018</a></nobr></td><td class="list"><NOBR>Airbus A319-111</NOBR></td>
+<td class="list">G-EZMK</td>
+<td class="list">easyJet</td>
+<td class="listdata">0</td>
+<td class="list">Murcia-San J...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/EC.gif" title="Spain" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180328-0">28-MAR-2018</a></nobr></td><td class="list"><NOBR>Boeing 737-76J (WL)</NOBR></td>
+<td class="list">D-ABLB</td>
+<td class="list">Germania</td>
+<td class="listdata">0</td>
+<td class="list">Tel Aviv-Ben...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/4X.gif" title="Israel" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180328-1">28-MAR-2018</a></nobr></td><td class="list"><NOBR>Boeing 767-3Q8ER</NOBR></td>
+<td class="list">4X-EAK</td>
+<td class="list">El Al</td>
+<td class="listdata">0</td>
+<td class="list">Tel Aviv-Ben...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/4X.gif" title="Israel" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180329-0">29-MAR-2018</a></nobr></td><td class="list"><NOBR>Swearingen SA227-DC Metro 23</NOBR></td>
+<td class="list">CP-2459</td>
+<td class="list">Línea Aérea Amaszonas</td>
+<td class="listdata">0</td>
+<td class="list">Riberalta-Ca...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/CP.gif" title="Bolivia" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180329-1">29-MAR-2018</a></nobr></td><td class="list"><NOBR>ATR-72-600</NOBR></td>
+<td class="list">XA-UYY</td>
+<td class="list">Aeromar</td>
+<td class="listdata">0</td>
+<td class="list">Mexico City-...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/XA.gif" title="Mexico" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180329-2">29-MAR-2018</a></nobr></td><td class="list"><NOBR>ATR 42-500</NOBR></td>
+<td class="list">XA-UAV</td>
+<td class="list">Aeromar</td>
+<td class="listdata">0</td>
+<td class="list">Mexico City-...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/XA.gif" title="Mexico" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180329-3">29-MAR-2018</a></nobr></td><td class="list"><NOBR>Beech 99</NOBR></td>
+<td class="list">N31TN</td>
+<td class="list">Lake Clark Air</td>
+<td class="listdata">0</td>
+<td class="list">Pilot Point ...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/N.gif" title="USA" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180330-0">30-MAR-2018</a></nobr></td><td class="list"><NOBR>Cessna 650 Citation III</NOBR></td>
+<td class="list">N126MT</td>
+<td class="list">2M Leasing</td>
+<td class="listdata">0</td>
+<td class="list">Orlando-Cent...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/N.gif" title="USA" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180331-0">31-MAR-2018</a></nobr></td><td class="list"><NOBR>Cessna 208B Grand Caravan</NOBR></td>
+<td class="list">N9339B</td>
+<td class="list">Skydive the Ranch</td>
+<td class="listdata">0</td>
+<td class="list">near Gardiner Air...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/N.gif" title="USA" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180402-0">02-APR-2018</a></nobr></td><td class="list"><NOBR>Cessna 525C Citation CJ4</NOBR></td>
+<td class="list">N511AC</td>
+<td class="list">Avis Industrial Corporation</td>
+<td class="listdata">0</td>
+<td class="list">Marion Munic...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/N.gif" title="USA" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180404-0">04-APR-2018</a></nobr></td><td class="list"><NOBR>Learjet 45XR</NOBR></td>
+<td class="list">N618CW</td>
+<td class="list">ERG Holdings</td>
+<td class="listdata">0</td>
+<td class="list">Houston-Will...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/N.gif" title="USA" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">O1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180404-1">04-APR-2018</a></nobr></td><td class="list"><NOBR>Learjet 40XR</NOBR></td>
+<td class="list">N626FX</td>
+<td class="list">Union Gas Air Ventures I</td>
+<td class="listdata">0</td>
+<td class="list">Houston-Will...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/N.gif" title="USA" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">O1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180404-2">04-APR-2018</a></nobr></td><td class="list"><NOBR>Cessna 560XL Citation Excel</NOBR></td>
+<td class="list">N900WL</td>
+<td class="list">MTC Enterprises</td>
+<td class="listdata">0</td>
+<td class="list">Houston-Will...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/N.gif" title="USA" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">O1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180404-3">04-APR-2018</a></nobr></td><td class="list"><NOBR>Learjet 60</NOBR></td>
+<td class="list">N759SH</td>
+<td class="list">Henning Aviation</td>
+<td class="listdata">0</td>
+<td class="list">Houston-Will...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/N.gif" title="USA" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">O1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180405-0">05-APR-2018</a></nobr></td><td class="list"><NOBR>Antonov An-26</NOBR></td>
+<td class="list">UP-AN607</td>
+<td class="list">Mega Aircompany</td>
+<td class="listdata">0</td>
+<td class="list">Wau Airport ...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/STss.gif" title="South Sudan" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180409-0">09-APR-2018</a></nobr></td><td class="list"><NOBR>Boeing 737-9B5</NOBR></td>
+<td class="list">HL7725</td>
+<td class="list">Korean Air</td>
+<td class="listdata">0</td>
+<td class="list">Osaka-Kansai...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/JA.gif" title="Japan" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180409-1">09-APR-2018</a></nobr></td><td class="list"><NOBR>Beech 200 Super King Air</NOBR></td>
+<td class="list">LN-NOA</td>
+<td class="list">Airwing</td>
+<td class="listdata">0</td>
+<td class="list">Stavanger-So...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/LN.gif" title="Norway" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180411-0">11-APR-2018</a></nobr></td><td class="list"><NOBR>Ilyushin Il-76TD</NOBR></td>
+<td class="list">7T-WIV</td>
+<td class="list">Algerian AF</td>
+<td class="listdata">257</td>
+<td class="list">near Boufarik Air...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/7T.gif" title="Algeria" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180411-1">11-APR-2018</a></nobr></td><td class="list"><NOBR>Cessna 208B Grand Caravan</NOBR></td>
+<td class="list">N814GV</td>
+<td class="list">Hageland Aviation Services, opf Ravn Connect</td>
+<td class="listdata">0</td>
+<td class="list">near Atqasuk Airp...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/N.gif" title="USA" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180412-0">12-APR-2018</a></nobr></td><td class="list"><NOBR>Cessna 208B Grand Caravan</NOBR></td>
+<td class="list">5Y-SAV</td>
+<td class="list">Penial Air</td>
+<td class="listdata">0</td>
+<td class="list">El Barde, So...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/5Y.gif" title="Kenya" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180413-0">13-APR-2018</a></nobr></td><td class="list"><NOBR>Lockheed P-3C Orion</NOBR></td>
+<td class="list">&nbsp;</td>
+<td class="list">US Navy</td>
+<td class="listdata">0</td>
+<td class="list">near Omaha, NE</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/N.gif" title="USA" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180414-0">14-APR-2018</a></nobr></td><td class="list"><NOBR>Antonov An-74-200</NOBR></td>
+<td class="list">EK-74036</td>
+<td class="list">Ayk Avia</td>
+<td class="listdata">0</td>
+<td class="list">Akola village</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/STss.gif" title="South Sudan" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180415-0">15-APR-2018</a></nobr></td><td class="list"><NOBR>Airbus A321-213</NOBR></td>
+<td class="list">B-6555</td>
+<td class="list">Air China</td>
+<td class="listdata">0</td>
+<td class="list">Zhengzhou-Xi...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/B.gif" title="China" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">H2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180415-1">15-APR-2018</a></nobr></td><td class="list"><NOBR>Cessna 525 CitationJet</NOBR></td>
+<td class="list">N525P</td>
+<td class="list">private</td>
+<td class="listdata">1</td>
+<td class="list">near Crozet, VA</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/N.gif" title="USA" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180415-2">15-APR-2018</a></nobr></td><td class="list"><NOBR>Cessna 550 Citation Bravo</NOBR></td>
+<td class="list">N4AT</td>
+<td class="list">Private</td>
+<td class="listdata">0</td>
+<td class="list">Winnipeg-Jam...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/C.gif" title="Canada" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180415-3">15-APR-2018</a></nobr></td><td class="list"><NOBR>Bombardier Challenger 605</NOBR></td>
+<td class="list">C-FXWT</td>
+<td class="list">Morningstar Partners</td>
+<td class="listdata">0</td>
+<td class="list">Winnipeg-Jam...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/C.gif" title="Canada" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">O2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180415-4">15-APR-2018</a></nobr></td><td class="list"><NOBR>DHC-6 Twin Otter 100</NOBR></td>
+<td class="list">C-FSCA</td>
+<td class="list">Transwest Air</td>
+<td class="listdata">0</td>
+<td class="list">Prince Alber...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/C.gif" title="Canada" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">O1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180416-0">16-APR-2018</a></nobr></td><td class="list"><NOBR>Cessna 525 CitationJet CJ1</NOBR></td>
+<td class="list">D-ISWA</td>
+<td class="list">private</td>
+<td class="listdata">0</td>
+<td class="list">Le Touquet A...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/F.gif" title="France" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180417-0">17-APR-2018</a></nobr></td><td class="list"><NOBR>Boeing 737-7H4 (WL)</NOBR></td>
+<td class="list">N772SW</td>
+<td class="list">Southwest Airlines</td>
+<td class="listdata">1</td>
+<td class="list">near Philadelphia...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/N.gif" title="USA" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180417-1">17-APR-2018</a></nobr></td><td class="list"><NOBR>DHC-8-402Q Dash 8</NOBR></td>
+<td class="list">G-JECX</td>
+<td class="list">Flybe</td>
+<td class="listdata">0</td>
+<td class="list">Newquay-Corn...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/G.gif" title="U.K." /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180418-0">18-APR-2018</a></nobr></td><td class="list"><NOBR>Airbus A330-302</NOBR></td>
+<td class="list">N806NW</td>
+<td class="list">Delta Air Lines</td>
+<td class="listdata">0</td>
+<td class="list">Atlanta-Will...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/N.gif" title="USA" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180420-0">20-APR-2018</a></nobr></td><td class="list"><NOBR>MD-83</NOBR></td>
+<td class="list">N807WA</td>
+<td class="list">World Atlantic Airlines</td>
+<td class="listdata">0</td>
+<td class="list">Alexandria I...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/N.gif" title="USA" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180429-0">29-APR-2018</a></nobr></td><td class="list"><NOBR>Boeing 737-8GP (WL)</NOBR></td>
+<td class="list">PK-LOO</td>
+<td class="list">Lion Air</td>
+<td class="listdata">0</td>
+<td class="list">Gorontalo-Ja...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/PK.gif" title="Indonesia" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180429-1">29-APR-2018</a></nobr></td><td class="list"><NOBR>Lockheed C-130H-30 Hercules</NOBR></td>
+<td class="list">&nbsp;</td>
+<td class="list">Libyan Air Force</td>
+<td class="listdata">3</td>
+<td class="list">near Sharara Airs...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/5A.gif" title="Libya" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180429-2">29-APR-2018</a></nobr></td><td class="list"><NOBR>Beech 1900C</NOBR></td>
+<td class="list">N172GA</td>
+<td class="list">Alpine Aviation</td>
+<td class="listdata">0</td>
+<td class="list">Sioux Falls ...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/N.gif" title="USA" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180430-0">30-APR-2018</a></nobr></td><td class="list"><NOBR>Boeing 737-8AS (WL)</NOBR></td>
+<td class="list">EI-GDZ</td>
+<td class="list">Ryanair</td>
+<td class="listdata">0</td>
+<td class="list">London-Stans...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/G.gif" title="U.K." /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180502-0">02-MAY-2018</a></nobr></td><td class="list"><NOBR>Lockheed WC-130H Hercules</NOBR></td>
+<td class="list">65-0968</td>
+<td class="list">USAF</td>
+<td class="listdata">9</td>
+<td class="list">near Savannah/Hil...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/N.gif" title="USA" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180502-1">02-MAY-2018</a></nobr></td><td class="list"><NOBR>Beech C99</NOBR></td>
+<td class="list">PNC0203</td>
+<td class="list">Colombian Police</td>
+<td class="listdata">4</td>
+<td class="list">near Ibagué</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/HK.gif" title="Colombia" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180503-0">03-MAY-2018</a></nobr></td><td class="list"><NOBR>Dassault Falcon 900EX</NOBR></td>
+<td class="list">ZS-DEX</td>
+<td class="list">Blueport Trade 121</td>
+<td class="listdata">0</td>
+<td class="list">Johannesburg...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/ZS.gif" title="South Africa" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180504-0">04-MAY-2018</a></nobr></td><td class="list"><NOBR>Cessna 525C Citation CJ4</NOBR></td>
+<td class="list">EC-MOQ</td>
+<td class="list">Aluminios Cortizo</td>
+<td class="listdata">0</td>
+<td class="list">Santiago de ...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/EC.gif" title="Spain" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180505-0">05-MAY-2018</a></nobr></td><td class="list"><NOBR>Embraer KC-390</NOBR></td>
+<td class="list">PT-ZNF</td>
+<td class="list">Embraer</td>
+<td class="listdata">0</td>
+<td class="list">Gavião Peixo...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/PP.gif" title="Brazil" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180507-0">07-MAY-2018</a></nobr></td><td class="list"><NOBR>Boeing 737-8H4 (WL)</NOBR></td>
+<td class="list">N8655D</td>
+<td class="list">Southwest Airlines</td>
+<td class="listdata">0</td>
+<td class="list">Baltimore/Wa...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/N.gif" title="USA" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180512-0">12-MAY-2018</a></nobr></td><td class="list"><NOBR>Lockheed L-100-30 Hercules</NOBR></td>
+<td class="list">N403LC</td>
+<td class="list">Lynden Air Cargo, opf PNG Air</td>
+<td class="listdata">0</td>
+<td class="list">Port Moresby...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/P2.gif" title="P.N. Guinea" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180512-1">12-MAY-2018</a></nobr></td><td class="list"><NOBR>Boeing 737-8BK (WL)</NOBR></td>
+<td class="list">P2-PXE</td>
+<td class="list">Air Niugini</td>
+<td class="listdata">0</td>
+<td class="list">Port Moresby...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/P2.gif" title="P.N. Guinea" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180513-0">13-MAY-2018</a></nobr></td><td class="list"><NOBR>Airbus A321-231</NOBR></td>
+<td class="list">TC-JMM</td>
+<td class="list">THY</td>
+<td class="listdata">0</td>
+<td class="list">Istanbul-Ata...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/TC.gif" title="Turkey" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180513-1">13-MAY-2018</a></nobr></td><td class="list"><NOBR>Airbus A330-323</NOBR></td>
+<td class="list">HL7792</td>
+<td class="list">Asiana Airlines</td>
+<td class="listdata">0</td>
+<td class="list">Istanbul-Ata...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/TC.gif" title="Turkey" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180513-2">13-MAY-2018</a></nobr></td><td class="list"><NOBR>Cessna 208B Grand Caravan</NOBR></td>
+<td class="list">G-KNYS</td>
+<td class="list">Irish Parachute Club, lsf Parachuting Caravan Leasing</td>
+<td class="listdata">2</td>
+<td class="list">near Clonbullogue...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/EI.gif" title="Ireland" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180515-0">15-MAY-2018</a></nobr></td><td class="list"><NOBR>Cessna 208B Grand Caravan</NOBR></td>
+<td class="list">&nbsp;</td>
+<td class="list">private</td>
+<td class="listdata">2</td>
+<td class="list">near Tuzantán</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/XA.gif" title="Mexico" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180516-0">16-MAY-2018</a></nobr></td><td class="list"><NOBR>Cessna 208B Grand Caravan</NOBR></td>
+<td class="list">9N-AJU</td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/euban_20.gif" alt="EU blacklist" title="Makalu Air is on the List of airlines banned within the EU" /> Makalu Air</td>
+<td class="listdata">2</td>
+<td class="list">Simikot Pass</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/9N.gif" title="Nepal" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180518-0">18-MAY-2018</a></nobr></td><td class="list"><NOBR>Boeing 737-201</NOBR></td>
+<td class="list">XA-UHZ</td>
+<td class="list">Cubana, lsf Global Air</td>
+<td class="listdata">112</td>
+<td class="list">near Havana-José ...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/CU.gif" title="Cuba" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180520-0">20-MAY-2018</a></nobr></td><td class="list"><NOBR>Gulfstream G200 Galaxy</NOBR></td>
+<td class="list">B-8129</td>
+<td class="list">Star Jet</td>
+<td class="listdata">0</td>
+<td class="list">Yangzhou Tai...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/B.gif" title="China" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180521-0">21-MAY-2018</a></nobr></td><td class="list"><NOBR>Airbus A330-243</NOBR></td>
+<td class="list">TC-OCH</td>
+<td class="list">Saudi Arabian, lsf Onur Air</td>
+<td class="listdata">0</td>
+<td class="list">Jeddah-King ...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/HZ.gif" title="Saudi Arabia" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180522-0">22-MAY-2018</a></nobr></td><td class="list"><NOBR>Cessna 208B Grand Caravan</NOBR></td>
+<td class="list">PT-FLW</td>
+<td class="list">Amazonaves Táxi Aéreo</td>
+<td class="listdata">0</td>
+<td class="list">near Manaus-Aeroc...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/PP.gif" title="Brazil" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180522-1">22-MAY-2018</a></nobr></td><td class="list"><NOBR>Gulfstream G200 Galaxy</NOBR></td>
+<td class="list">N813WM</td>
+<td class="list">Silver Air</td>
+<td class="listdata">0</td>
+<td class="list">Tegucigalpa-...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/HR.gif" title="Honduras" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180524-0">24-MAY-2018</a></nobr></td><td class="list"><NOBR>Swearingen SA227-AC Metro III</NOBR></td>
+<td class="list">XA-UPP</td>
+<td class="list">Aeronaves TSM</td>
+<td class="listdata">0</td>
+<td class="list">Saltillo-Pla...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/XA.gif" title="Mexico" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180530-0">30-MAY-2018</a></nobr></td><td class="list"><NOBR>Cessna 208B Grand Caravan</NOBR></td>
+<td class="list">5X-MRH</td>
+<td class="list">Air Serv Limited, opf UNHAS</td>
+<td class="listdata">0</td>
+<td class="list">Kamonia Airs...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/9Q.gif" title="D.R. Congo" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180530-1">30-MAY-2018</a></nobr></td><td class="list"><NOBR>Cessna 208B Grand Caravan</NOBR></td>
+<td class="list">5Y-ETY</td>
+<td class="list">Asure Air</td>
+<td class="listdata">0</td>
+<td class="list">near Obo-AIM Airf...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/TL.gif" title="C.A.R." /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180603-0">03-JUN-2018</a></nobr></td><td class="list"><NOBR>Lockheed C-130H Hercules</NOBR></td>
+<td class="list">7T-WHT</td>
+<td class="list">Algerian AF</td>
+<td class="listdata">1</td>
+<td class="list">near Biskra Airpo...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/7T.gif" title="Algeria" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180605-0">05-JUN-2018</a></nobr></td><td class="list"><NOBR>Cessna 208B Grand Caravan</NOBR></td>
+<td class="list">5Y-CAC</td>
+<td class="list">Fly-SAX</td>
+<td class="listdata">10</td>
+<td class="list">near Njabini</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/5Y.gif" title="Kenya" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180606-0">06-JUN-2018</a></nobr></td><td class="list"><NOBR>Cessna 525A CitationJet CJ2+</NOBR></td>
+<td class="list">D-IULI</td>
+<td class="list">ProAir</td>
+<td class="listdata">0</td>
+<td class="list">Saint Tropez...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/F.gif" title="France" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180606-1">06-JUN-2018</a></nobr></td><td class="list"><NOBR>Antonov An-2R</NOBR></td>
+<td class="list">YR-DAX</td>
+<td class="list">Aeroserv</td>
+<td class="listdata">0</td>
+<td class="list">Baleni, Gala...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/YR.gif" title="Romania" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180609-0">09-JUN-2018</a></nobr></td><td class="list"><NOBR>DHC-6 Twin Otter 300</NOBR></td>
+<td class="list">9N-AEV</td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/euban_20.gif" alt="EU blacklist" title="Tara Air is on the List of airlines banned within the EU" /> Tara Air</td>
+<td class="listdata">0</td>
+<td class="list">Jumla Airpor...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/9N.gif" title="Nepal" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=20180611-0">11-JUN-2018</a></nobr></td><td class="list"><NOBR>Airbus A340-313</NOBR></td>
+<td class="list">D-AIFA</td>
+<td class="list">Lufthansa</td>
+<td class="listdata">0</td>
+<td class="list">Frankfurt In...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/D.gif" title="Germany" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">O1</td></tr>
+</table>
+<p />
+ <div class="pagenumbers"><span class="current">1</span> <a href="?Year=2018&lang=&page=2">2</a> <a href="?Year=2018&lang=&page=3">3</a> </div> 
+<!--  end content  -->
+
+
+</div> <!-- close innertube -->
+</div> <!-- close contentcolumn -->
+</div> <!-- close contentwrapper -->
+<div id="norightcolumn"><div class="innertube"></div></div>
+<!-- deleted pagetools -->
+
+</div> <!-- close inside -->
+
+
+				<div style="clear: both;"></div>
+	<p>			
+			</p>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script type="text/javascript">
+$(function(){
+    $('#correct').click(function(){ 
+        if(!$('#iframe').length) {
+                $('#iframeHolder').html('<iframe id="iframe" src="https://aviation-safety.net/lib/sendcorrection2.php?title=Aviation Safety Network > ASN Aviation Safety Database > 2018" width="100%" height="225" scrolling="no" frameborder="0"></iframe>');
+        }
+    });   
+});
+</script>
+<div id="iframeHolder"></div>
+<!-- correction iframe -->
+	<div class="footernavigation">
+	<ul>	
+	<li><a href="/index.php">Home </a></li>
+	<li><a href="/about/disclaimer.php">Disclaimer</a></li>
+ 	<li><a href="/about/usage33.php">Copyright</a></li>
+	<li><a href="/about/privacy.php">Privacy</a></li>
+  <li><a href="#" id="correct" title="send a correction">Send correction / feedback</a></li>
+
+	<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+	</ul>
+	<ul>
+	<li>Unless otherwise stated: copyright &copy; 1996-2019 Aviation Safety Network (ASN) </li>&nbsp;&nbsp;&nbsp;&nbsp;
+	</ul>
+
+	</div>   <!-- close footernavigation -->
+
+
+ </div>   <!-- close pagetools -->
+
+ 			</div>  <!-- close pagewrap -->
+			
+			<div style="clear: both;"></div>
+			
+<p />			
+			<div id="footer_bar">
+
+			</div>  <!-- close footer bar -->
+
+		<div style="clear: both;"></div>
+
+</body>
+</html>

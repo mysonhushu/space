@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE generatorConfiguration
+        PUBLIC "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN"
+        "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd">
+<generatorConfiguration>
+    <context id="salesplatform" targetRuntime="MyBatis3">
+        <commentGenerator>
+            <property name="suppressAllComments" value="true"/>
+            <property name="suppressDate" value="true"/>
+        </commentGenerator>
+        <jdbcConnection driverClass="com.mysql.jdbc.Driver"
+                        connectionURL="jdbc:mysql://localhost:3306/wait"
+                        userId="root" password="rootroot">
+        </jdbcConnection>
+
+        <javaTypeResolver>
+            <property name="forceBigDecimals" value="false"/>
+        </javaTypeResolver>
+        <javaModelGenerator targetPackage="com.huyouxiao.space.dao.entity"
+                            targetProject="/home/huxing/my-repo/space/space-dao/src/main/java/">
+            <property name="enableSubPackages" value="false"/>
+            <property name="trimStrings" value="false"/>
+        </javaModelGenerator>
+        <sqlMapGenerator targetPackage="mapper"
+                         targetProject="/home/huxing/my-repo/space/space-dao/src/main/resources">
+            <property name="enableSubPackages" value="false"/>
+        </sqlMapGenerator>
+        <javaClientGenerator type="XMLMAPPER"
+                             targetPackage="com.huyouxiao.space.dao.mapper"
+			     targetProject="/home/huxing/my-repo/space/space-dao/src/main/java/">
+            <property name="enableSubPackages" value="false"/>
+        </javaClientGenerator>
+
+
+        <!-- MySQL Table-->
+	<!--
+        <table tableName="user"
+               domainObjectName="UserEntity" enableCountByExample="false"
+               enableUpdateByExample="false" enableDeleteByExample="false"
+               enableSelectByExample="false" selectByExampleQueryId="false">
+            <generatedKey column="id" sqlStatement="MySql" identity="true"/>
+            <ignoreColumn column="create_date"/>
+            <ignoreColumn column="update_date"/>
+        </table>
+        -->
+
+        <!-- MySQL Table-->
+	<!--
+        <table tableName="user_credential"
+               domainObjectName="UserCredentialEntity" enableCountByExample="false"
+               enableUpdateByExample="false" enableDeleteByExample="false"
+               enableSelectByExample="false" selectByExampleQueryId="false">
+            <generatedKey column="id" sqlStatement="MySql" identity="true"/>
+            <ignoreColumn column="create_date"/>
+            <ignoreColumn column="update_date"/>
+        </table>
+        -->
+
+        <!-- MySQL Table-->
+	<!--
+        <table tableName="user_identity"
+               domainObjectName="UserIdentityEntity" enableCountByExample="false"
+               enableUpdateByExample="false" enableDeleteByExample="false"
+               enableSelectByExample="false" selectByExampleQueryId="false">
+            <generatedKey column="id" sqlStatement="MySql" identity="true"/>
+            <ignoreColumn column="create_date"/>
+            <ignoreColumn column="update_date"/>
+        </table>
+        -->
+
+
+        <!-- MySQL Table-->
+	<!--
+        <table tableName="comany"
+               domainObjectName="ComanyEntity" enableCountByExample="false"
+               enableUpdateByExample="false" enableDeleteByExample="false"
+               enableSelectByExample="false" selectByExampleQueryId="false">
+            <generatedKey column="id" sqlStatement="MySql" identity="true"/>
+            <ignoreColumn column="create_date"/>
+            <ignoreColumn column="update_date"/>
+        </table>
+        -->
+
+
+        <!-- MySQL Table-->
+	<!--
+        <table tableName="department"
+               domainObjectName="DepartmentEntity" enableCountByExample="false"
+               enableUpdateByExample="false" enableDeleteByExample="false"
+               enableSelectByExample="false" selectByExampleQueryId="false">
+            <generatedKey column="id" sqlStatement="MySql" identity="true"/>
+            <ignoreColumn column="create_date"/>
+            <ignoreColumn column="update_date"/>
+        </table>
+        -->
+
+
+        <!-- MySQL Table-->
+	<!--
+        <table tableName="family_name"
+               domainObjectName="FamilyNameEntity" enableCountByExample="false"
+               enableUpdateByExample="false" enableDeleteByExample="false"
+               enableSelectByExample="false" selectByExampleQueryId="false">
+            <generatedKey column="id" sqlStatement="MySql" identity="true"/>
+            <ignoreColumn column="create_date"/>
+            <ignoreColumn column="update_date"/>
+        </table>
+        -->
+
+        <!-- MySQL Table-->
+	<!--
+        <table tableName="name_pool"
+               domainObjectName="NamePoolEntity" enableCountByExample="false"
+               enableUpdateByExample="false" enableDeleteByExample="false"
+               enableSelectByExample="false" selectByExampleQueryId="false">
+            <generatedKey column="id" sqlStatement="MySql" identity="true"/>
+            <ignoreColumn column="create_date"/>
+            <ignoreColumn column="update_date"/>
+        </table>
+        -->
+
+        
+        <table tableName="calendar"
+               domainObjectName="CalendarEntity" enableCountByExample="false"
+               enableUpdateByExample="false" enableDeleteByExample="false"
+               enableSelectByExample="false" selectByExampleQueryId="false">
+            <generatedKey column="id" sqlStatement="MySql" identity="true"/>
+            <ignoreColumn column="create_date"/>
+            <ignoreColumn column="update_date"/>
+        </table>
+
+        <!--
+        <table tableName="dictionary"
+               domainObjectName="DictionaryEntity" enableCountByExample="false"
+               enableUpdateByExample="false" enableDeleteByExample="false"
+               enableSelectByExample="false" selectByExampleQueryId="false">
+            <generatedKey column="id" sqlStatement="MySql" identity="true"/>
+            <ignoreColumn column="create_date"/>
+            <ignoreColumn column="update_date"/>
+        </table>
+        -->
+
+        <!-- MySQL Table-->
+	<!--
+        <table tableName="poetry"
+               domainObjectName="PoetryEntity" enableCountByExample="false"
+               enableUpdateByExample="false" enableDeleteByExample="false"
+               enableSelectByExample="false" selectByExampleQueryId="false">
+            <generatedKey column="id" sqlStatement="MySql" identity="true"/>
+            <ignoreColumn column="create_date"/>
+            <ignoreColumn column="update_date"/>
+        </table>
+        -->
+
+        <!-- MySQL Table-->
+	<!--
+        <table tableName="poetry_field"
+               domainObjectName="PoetryFieldEntity" enableCountByExample="false"
+               enableUpdateByExample="false" enableDeleteByExample="false"
+               enableSelectByExample="false" selectByExampleQueryId="false">
+            <generatedKey column="id" sqlStatement="MySql" identity="true"/>
+            <ignoreColumn column="create_date"/>
+            <ignoreColumn column="update_date"/>
+        </table>
+        -->
+        <!--
+        <table tableName="word"
+               domainObjectName="WordEntity" enableCountByExample="false"
+               enableUpdateByExample="false" enableDeleteByExample="false"
+               enableSelectByExample="false" selectByExampleQueryId="false">
+            <generatedKey column="id" sqlStatement="MySql" identity="true"/>
+            <ignoreColumn column="create_date"/>
+            <ignoreColumn column="update_date"/>
+        </table>
+        -->	
+        <!--
+        <table tableName="word_frequency"
+               domainObjectName="WordFrequencyEntity" enableCountByExample="false"
+               enableUpdateByExample="false" enableDeleteByExample="false"
+               enableSelectByExample="false" selectByExampleQueryId="false">
+            <generatedKey column="id" sqlStatement="MySql" identity="true"/>
+            <ignoreColumn column="create_date"/>
+            <ignoreColumn column="update_date"/>
+        </table>
+	-->
+
+        <!-- 
+        <table tableName="poetry_index"
+               domainObjectName="PoetryIndexEntity" enableCountByExample="false"
+               enableUpdateByExample="false" enableDeleteByExample="false"
+               enableSelectByExample="false" selectByExampleQueryId="false">
+            <generatedKey column="id" sqlStatement="MySql" identity="true"/>
+            <ignoreColumn column="create_date"/>
+            <ignoreColumn column="update_date"/>
+        </table>
+        -->
+
+
+
+    </context>
+</generatorConfiguration>
+

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.huyouxiao.space.dao.mapper.NamePoolEntityMapper">
+    <insert id="batchInsert" parameterType="java.util.List">
+        insert ignore  into name_pool(`name`, name_pinyin, name_letter, first_word, second_word, third_word, fourth_word, frequency, family_names) values
+        <foreach collection="list" item="item" index="index"
+                 separator=",">
+           (#{item.name,      jdbcType=VARCHAR},
+            #{item.namePinyin,      jdbcType=VARCHAR},
+            #{item.nameLetter,      jdbcType=VARCHAR},
+            #{item.firstWord,      jdbcType=VARCHAR},
+            #{item.secondWord,      jdbcType=VARCHAR},
+            #{item.thirdWord,      jdbcType=VARCHAR},
+            #{item.fourthWord,      jdbcType=VARCHAR},
+            #{item.frequency,      jdbcType=BIGINT},
+            #{item.familyNames,      jdbcType=VARCHAR})
+        </foreach>
+    </insert>
+
+    <select id="selectNames" resultMap="ResultMapWithBLOBs">
+        select
+        <include refid="Base_Column_List" />
+        ,
+        <include refid="Blob_Column_List" />
+        from name_pool
+        where 1=1
+        <if test="nameLength == '2' " >
+            and third_word is null
+        </if>
+        <if test="nameLength == '3' " >
+            and third_word is not null
+        </if>
+        <if test="pinyinAbridge != null " >
+            and name_letter = #{pinyinAbridge, jdbcType=VARCHAR}
+        </if>
+        <if test="wantField != null " >
+            <bind name="pattern" value="'%' + wantField + '%'" />
+            and name like #{pattern}
+        </if>
+        <if test="frequencyStart != null and frequencyEnd != null" >
+            <![CDATA[
+            and frequency >= #{frequencyStart, jdbcType=VARCHAR} and frequency <= #{frequencyEnd, jdbcType=VARCHAR}
+            ]]>
+        </if>
+        order by frequency desc
+    </select>
+
+    <select id="selectNamesCount" resultType="java.lang.Integer">
+        select
+        count(*) as total
+        from name_pool
+        where 1=1
+        <if test="nameLength == '2' " >
+            and third_word is null
+        </if>
+        <if test="nameLength == '3' " >
+            and third_word is not null
+        </if>
+        <if test="pinyinAbridge != null " >
+            and name_letter = #{pinyinAbridge, jdbcType=VARCHAR}
+        </if>
+        <if test="wantField != null " >
+            <bind name="pattern" value="'%' + wantField + '%'" />
+            and  `name` like #{pattern}
+        </if>
+        <if test="frequencyStart != null and frequencyEnd != null" >
+            <![CDATA[
+            and frequency >= #{frequencyStart, jdbcType=VARCHAR} and frequency <= #{frequencyEnd, jdbcType=VARCHAR}
+            ]]>
+        </if>
+        order by frequency desc
+    </select>
+</mapper>

@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>人工智能名字</title>
+    <style>
+        /* *{
+            margin: 0;
+            padding: 0;
+        } */
+        html,
+        body {
+            height: 100%;
+            margin: 0px;
+            padding: 0px;
+        }
+
+        #particles-js {
+            width: 100%;
+            height: 100%;
+            background: #FFB3A7;
+            overflow: hidden;
+        }
+
+        #form {
+            background: #FFB3A7;
+            overflow: hidden;
+            width:550px; 
+            height:600px;
+            position:absolute; 
+            left:50%; 
+            top:50%;
+            margin-left: -300px; 
+            margin-top: -200px;
+        }
+
+        .line {
+           width:250px; 
+           height:60px;
+           overflow: hidden;
+           margin: 0 auto;
+           text-align: center;
+        }
+    </style>
+    <script src="./js/jquery/jquery.min.js"></script>
+    <script>
+    $(document).ready(function(){
+        $("button#getName").click(function () {
+            $.ajax({
+               url: "http://10.8.10.28:8080/web/name/generate",
+               dataType: "json",
+               data: JSON.stringify({ familyName: $("input#familyName").val(), pinyinAbridge: $("input#pinyinAbridge").val(), wantField: $("input#wantField").val(), token: $("input#token").val()}),
+               type: "POST",
+               crossDomain: true,
+               beforeSend: function(xhr){xhr.setRequestHeader('content-type', 'application/json');xhr.withCredentials=true;},
+               success: function(response) { generateDynamicTable(response.content.names); }
+            });
+        });
+
+      });
+
+
+   function generateDynamicTable(names){
+     var nameLength = names.length;
+     
+     if(nameLength>0){
+       // CREATE DYNAMIC TABLE.
+       var table = document.createElement("table");
+         table.style.width = '50%';
+         table.setAttribute('border', '1');
+         table.setAttribute('cellspacing', '0');
+         table.setAttribute('cellpadding', '5');
+
+         // retrieve column header ('name', 'namePinyin')
+
+         var col = []; // define an empty array
+         for (var i = 0; i < nameLength; i++) {
+           for (var key in names[i]) {
+             if (col.indexOf(key) === -1) {
+                col.push(key);
+             }
+           }
+         }
+
+        // CREATE TABLE HEAD .
+        var tHead = document.createElement("thead"); 
+
+        // CREATE ROW FOR TABLE HEAD .
+        var hRow = document.createElement("tr");
+
+        // ADD COLUMN HEADER TO ROW OF TABLE HEAD.
+        for (var i = 0; i < col.length; i++) {
+          var th = document.createElement("th");
+          th.innerHTML = col[i];
+          hRow.appendChild(th);
+        }
+        tHead.appendChild(hRow);
+        table.appendChild(tHead);
+
+       // CREATE TABLE BODY .
+       var tBody = document.createElement("tbody"); 
+
+       // ADD COLUMN HEADER TO ROW OF TABLE HEAD.
+       for (var i = 0; i < nameLength; i++) {
+          var bRow = document.createElement("tr"); // CREATE ROW FOR EACH RECORD .
+          for (var j = 0; j < col.length; j++) {
+             var td = document.createElement("td");
+             td.innerHTML = names[i][col[j]];
+             bRow.appendChild(td);
+          }
+          tBody.appendChild(bRow)
+
+       }
+       table.appendChild(tBody); 
+       // FINALLY ADD THE NEWLY CREATED TABLE WITH JSON DATA TO A CONTAINER.
+       var divContainer = document.getElementById("nameList");
+       divContainer.innerHTML = "";
+       divContainer.appendChild(table);
+       } 
+      }
+    </script>
+</head>
+
+<body>
+    <div id="particles-js">
+       <div id="form">
+              <div class="line">
+                  你的姓氏:&nbsp;&nbsp;<input type="text" id="familyName" name="familyName"/>
+              </div>
+              <div class="line">
+                  包含的字:&nbsp;&nbsp;<input type="text" id="wantField" name="wantField"/>
+              </div>
+              <div class="line">
+                  拼音缩写:&nbsp;&nbsp;<input type="text" id="pinyinAbridge" name="pinyinAbridge"/> 
+              </div>
+              <div class="line">
+                 下载密码:&nbsp;&nbsp;<input type="text" id="token" name="token"/> 
+              </div>
+              <div class="line">
+                  &nbsp;&nbsp; <button id="getName" data-inline="true">生成</button>
+                  &nbsp;&nbsp; <button id="downloadName" data-inline="true">下载全部</button>
+              </div>
+              <div id="nameList"></div>
+       </div>
+    </div>
+
+    <script src="./js/particles.min.js"></script>
+    <script>
+        /* ---- particles.js config ---- */
+
+        particlesJS("particles-js", {
+            "particles": {
+                "number": {
+                    "value": 100,
+                    "density": {
+                        "enable": true,
+                        "value_area": 1000
+                    }
+                },
+                "color": {
+                    "value": ["#fff"]
+                },
+
+                "shape": {
+                    "type": "circle",
+                    "stroke": {
+                        "width": 0,
+                        "color": "#fff"
+                    },
+                    "polygon": {
+                        "nb_sides": 5
+                    },
+                    "image": {
+                        "src": "img/github.svg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "opacity": {
+                    "value": 0.5,
+                    "random": true,
+                    "anim": {
+                        "enable": false,
+                        "speed": 1,
+                        "opacity_min": 0.1,
+                        "sync": false
+                    }
+                },
+                "size": {
+                    "value": 2,
+                    "random": true,
+                    "anim": {
+                        "enable": false,
+                        "speed": 1,
+                        "size_min": 0.1,
+                        "sync": false
+                    }
+                },
+                "line_linked": {
+                    "enable": true,
+                    "distance": 130,
+                    "color": "#ffffff",
+                    "opacity": 0.2,
+                    "width": 1
+                },
+            },
+            "interactivity": {
+                "detect_on": "canvas",
+                "events": {
+                    "onhover": {
+                        "enable": true,
+                        "mode": "grab"
+                    },
+                    "onclick": {
+                        "enable": false
+                    },
+                    "resize": true
+                },
+                "modes": {
+                    "grab": {
+                        "distance": 140,
+                        "line_linked": {
+                            "opacity": 0.7
+                        }
+                    },
+                    "bubble": {
+                        "distance": 400,
+                        "size": 40,
+                        "duration": 2,
+                        "opacity": 8,
+                        "speed": 3
+                    },
+                    "repulse": {
+                        "distance": 200,
+                        "duration": 0.4
+                    },
+                    "push": {
+                        "particles_nb": 4
+                    },
+                    "remove": {
+                        "particles_nb": 2
+                    }
+                }
+            },
+            "retina_detect": true
+        });
+    </script>
+</body>
+
+</html>

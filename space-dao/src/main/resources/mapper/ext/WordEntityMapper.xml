@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.huyouxiao.space.dao.mapper.WordEntityMapper" >
+    <select id="selectByWord" resultMap="BaseResultMap" >
+        select
+        <include refid="Base_Column_List" />
+        from word
+        where word = #{word,jdbcType=VARCHAR}
+        <if test="pinyinLetter != null" >
+            and pinyin_letter = #{pinyinLetter, jdbcType=VARCHAR}
+        </if>
+        limit 1
+    </select>
+</mapper>

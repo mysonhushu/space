@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.huyouxiao.space.dao.mapper.DictionaryEntityMapper" >
+  <select id="selectByWord" resultMap="BaseResultMap" parameterType="java.lang.String" >
+    select
+    <include refid="Base_Column_List" />
+    from dictionary
+    where word = #{word,jdbcType=VARCHAR}
+    <if test="hashCode != null" >
+      and hash_code = #{hashCode,jdbcType=VARCHAR}
+    </if>
+  </select>
+</mapper>

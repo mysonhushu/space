@@ -1,0 +1,316 @@
+<!-- cachefile cache/cached--database-dblist.php-year-1931.html  --><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+<head>
+<title>Aviation Safety Network > ASN Aviation Safety Database > 1931</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+  <meta http-equiv="content-language" content="" />
+  <meta name="viewport"	 content="width=device-width, initial-scale=1" />
+  <meta name="author" content="Harro Ranter" />
+  <meta name="description" content="Aviation Safety Network: Aviation Safety Network: Databases containing descriptions of over 11000 airliner write-offs, hijackings and military aircraft accidents." />
+    <meta name="keywords" content="aircraft accident, aviation, accidents, safety, crashes, disasters" />
+    	
+    	
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:site" content="@AviationSafety" />
+	<meta name="twitter:title" content="Aviation Safety Network > ASN Aviation Safety Database > 1931" />
+	<meta name="twitter:description" content="Aviation Safety Network: Aviation Safety Network: Databases containing descriptions of over 11000 airliner write-offs, hijackings and military aircraft accidents." />
+	<meta name="twitter:dnt" content="on">
+	<meta property="og:type" content="website" /> 
+  <meta property="og:title" content="Aviation Safety Network > ASN Aviation Safety Database > 1931" /> 
+  <meta property="og:description" content="Aviation Safety Network: Aviation Safety Network: Databases containing descriptions of over 11000 airliner write-offs, hijackings and military aircraft accidents." /> 
+  <meta property="og:url" content="https://aviation-safety.net/database/dblist.php?Year=1931" /> 
+  <link rel="stylesheet" type="text/css" href="https://cdn.aviation-safety.net/totalY.min.css" media="screen" />
+  <link rel="stylesheet" type="text/css" href="https://cdn.aviation-safety.net/totalprint.css" media="print" />
+</head>
+<body>
+
+</head>
+<body>
+
+<script src="https://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-707531-1";
+urchinTracker();
+</script>
+<!-- Year=1931 --> 
+	<div id="page-wrap">
+		<div id="inside">
+			
+			<div class="photodisplay aligncenter">
+			<img src="/graphics/asn_header3.png" width="800" height="115" alt="ASN logo" usemap="#mapname" />
+<map name="mapname">
+  <area shape="rect" coords="0,0,580,115" href="https://aviation-safety.net/">
+  <area shape="rect" coords="580,0,800,115" href="http://flightsafety.org/">
+</map>
+			
+			</div> <!-- close header  -->
+			
+			<div class="navigation">
+	<ul>	
+	<li><a href="/">Home </a></li>
+ 	<li><a href="//aviation-safety.net/airlinesafety/">Aviation safety </a></li>
+	<li class="active"><a href="//aviation-safety.net/database/databases.php">Database </a></li>
+	<li><a href="//aviation-safety.net/investigation/">Investigation </a></li>
+	<li><a href="//news.aviation-safety.net/">News</a></li>
+	<li><a href="//aviation-safety.net/photos/">Photos </a></li>
+	<li><a href="//aviation-safety.net/statistics/">Statistics </a></li>
+	<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+	</ul>
+	<ul>
+	<li><a href="//aviation-safety.net/about/contact.php?p=ASN_Aviation_Safety_Database|1931|||">Contact us</a></li>
+	<li><a href="//aviation-safety.net/about/">About</a></li>
+	</ul>
+
+	</div>   <!-- close navigation -->
+	
+	<div class="trail" id="noprint"> 
+		<a href="/">Home</a> &#187; <a href="/database/">ASN Aviation Safety Database</a> 
+	</div>    <!-- close trail  -->
+	<div class="pagetitle">
+1931			
+			</div>
+			<div class="lastupdated">Last updated: 30 July 2019</div>
+
+<div id="contentwrapper">
+<div id="contentcolumnfull"><div class="innertube">
+<div class="languagebar">
+<span class="languages" id="noprint"> 
+languages: 
+<a href="/database/dblist.php?Year=1931"><img src="/graphics/lang_en.gif" alt="English" border="0" /></a>
+<a href="/database/dblist.php?Year=1931&lang=fr"><img src="/graphics/lang_fr.gif" alt="Français" border="0" /></a>
+<a href="/database/dblist.php?Year=1931&lang=nl"><img src="/graphics/lang_nl.gif" alt="Nederlands" border="0" /></a>
+<a href="/database/dblist.php?Year=1931&lang=de"><img src="/graphics/lang_de.gif" alt="Deutsch" border="0" /></a>
+<a href="/database/dblist.php?id=&lang=es"><img src="/graphics/lang_es.gif" alt="Espanol" border="0" /></a>
+</span>
+</div>
+
+
+<!--  start content  -->
+
+<!-- syntax functie DatabaseList($page,$sorteer,$field,$var,%,$listing,$mode,$scriptname) -->
+
+
+	<!-- syntax functie DatabaseList(1,datekey,datekey,1931%,%,full,Year,?Year=1931) -->
+	
+
+
+
+
+
+<p /><span class="caption">18 occurrences in the ASN safety database<p /><table><tr><th class="list">date</th>
+<th class="list">type</th>
+<th class="list">registration</th>
+<th class="list">operator</th>
+<th class="list">fat.</th>
+<th class="list">location</th>
+<th class="list">&nbsp; </th>
+<th class="list">pic</th>
+<th class="list"><a href="/database/legend.php" class="headerlink">cat</a></th></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=19310127-0">27-JAN-1931</a></nobr></td><td class="list"><NOBR>Ford 5-AT-B Tri-Motor</NOBR></td>
+<td class="list">NC9647</td>
+<td class="list">TWA</td>
+<td class="listdata">0</td>
+<td class="list">Harrisburg, PA</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/N.gif" title="USA" /></td>
+<td class="list"><img src="//cdn.aviation-safety.net/graphics/C.gif" /></td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=19310221-0">21-FEB-1931</a></nobr></td><td class="list"><NOBR>Ford Tri-Motor</NOBR></td>
+<td class="list">&nbsp;</td>
+<td class="list">Panagra</td>
+<td class="listdata">0</td>
+<td class="list">Arequipa Air...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/OB.gif" title="Peru" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">H2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=19310331-0">31-MAR-1931</a></nobr></td><td class="list"><NOBR>Fokker F.10A</NOBR></td>
+<td class="list">NC999E</td>
+<td class="list">TWA</td>
+<td class="listdata">8</td>
+<td class="list">near Bazaar, KS</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/N.gif" title="USA" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=19310401-0">01-APR-1931</a></nobr></td><td class="list"><NOBR>Ford 5-AT-C Tri-Motor</NOBR></td>
+<td class="list">NC8418</td>
+<td class="list">Panagra</td>
+<td class="listdata">0</td>
+<td class="list">Ovalle Airpo...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/CC.gif" title="Chile" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=19310417-0">17-APR-1931</a></nobr></td><td class="list"><NOBR>Ford 5-AT-C Tri-Motor</NOBR></td>
+<td class="list">CV-FAI</td>
+<td class="list">Private</td>
+<td class="listdata">0</td>
+<td class="list">near Mohania, Bihar</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/VT.gif" title="India" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=19310418-0">18-APR-1931</a></nobr></td><td class="list"><NOBR>Junkers F.24ko (G.24)</NOBR></td>
+<td class="list">D-896</td>
+<td class="list">Deutsche Lufthansa</td>
+<td class="listdata">0</td>
+<td class="list">Gex (Ain)</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/F.gif" title="France" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A2</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=19310419-0">19-APR-1931</a></nobr></td><td class="list"><NOBR>DH.66 Hercules</NOBR></td>
+<td class="list">G-EBMW</td>
+<td class="list">Imperial Airways</td>
+<td class="listdata">0</td>
+<td class="list">near Kupang</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/PK.gif" title="Indonesia" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=19310422-0">22-APR-1931</a></nobr></td><td class="list"><NOBR>A.W. Argosy II</NOBR></td>
+<td class="list">G-AACH</td>
+<td class="list">Imperial Airways</td>
+<td class="listdata">0</td>
+<td class="list">London-Croyd...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/G.gif" title="U.K." /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=19310429-0">29-APR-1931</a></nobr></td><td class="list"><NOBR>Ford 5-AT-C Tri-Motor</NOBR></td>
+<td class="list">NC421H</td>
+<td class="list">National Air Transport</td>
+<td class="listdata">0</td>
+<td class="list">near Elyria, OH</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/N.gif" title="USA" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=19310611-0">11-JUN-1931</a></nobr></td><td class="list"><NOBR>Junkers G.24</NOBR></td>
+<td class="list">SE-AAG</td>
+<td class="list">AB Aerotransport</td>
+<td class="listdata">0</td>
+<td class="list">Malmö-Bullto...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/SE.gif" title="Sweden" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">O1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=19310616-0">16-JUN-1931</a></nobr></td><td class="list"><NOBR>A.W. Argosy IA</NOBR></td>
+<td class="list">G-EBLO</td>
+<td class="list">Imperial Airways</td>
+<td class="listdata">0</td>
+<td class="list">Aswan</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/SU.gif" title="Egypt" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=19310804-0">04-AUG-1931</a></nobr></td><td class="list"><NOBR>Fokker F.IX</NOBR></td>
+<td class="list">PH-AFK</td>
+<td class="list">KLM</td>
+<td class="listdata">0</td>
+<td class="list">Rotterdam-Wa...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/PH.gif" title="Netherlands" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=19310807-0">07-AUG-1931</a></nobr></td><td class="list"><NOBR>Fokker F.10A</NOBR></td>
+<td class="list">X-ABCR</td>
+<td class="list">Mexicana</td>
+<td class="listdata"></td>
+<td class="list">Miami, FL</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/N.gif" title="USA" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=19310809-0">09-AUG-1931</a></nobr></td><td class="list"><NOBR>Ford 5-AT-B Tri-Motor</NOBR></td>
+<td class="list">NC9662</td>
+<td class="list">American Airways</td>
+<td class="listdata">6</td>
+<td class="list">Cincinnati, OH</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/N.gif" title="USA" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=19310819-0">19-AUG-1931</a></nobr></td><td class="list"><NOBR>Ford 5-AT-B Tri-Motor</NOBR></td>
+<td class="list">NC9554</td>
+<td class="list">TWA</td>
+<td class="listdata">0</td>
+<td class="list">Pittsburgh, PA</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/N.gif" title="USA" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=19310919-0">19-SEP-1931</a></nobr></td><td class="list"><NOBR>Ford XB-906 (Tri-Motor)</NOBR></td>
+<td class="list">NX9652</td>
+<td class="list">Ford Motor Company</td>
+<td class="listdata">2</td>
+<td class="list">near Dearborn, MI</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/N.gif" title="USA" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=19311027-0">27-OCT-1931</a></nobr></td><td class="list"><NOBR>Ford 5-AT-C Tri-Motor</NOBR></td>
+<td class="list">NC427H</td>
+<td class="list">National Air Transport</td>
+<td class="listdata">0</td>
+<td class="list">Ashley, IN</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/N.gif" title="USA" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+<tr><td class="list"><nobr><a href="/database/record.php?id=19311219-0">19-DEC-1931</a></nobr></td><td class="list"><NOBR>Ford 4-AT-E Tri-Motor</NOBR></td>
+<td class="list">NC7119</td>
+<td class="list">TWA</td>
+<td class="listdata">1</td>
+<td class="list">Oklahoma Cit...</td>
+<td class="list"><img src="//cdn.aviation-safety.net/database/country/flags_15/N.gif" title="USA" /></td>
+<td class="list">&nbsp;</td>
+<td class="list">A1</td></tr>
+</table>
+<p />
+ <div class="pagenumbers"></div> 
+<!--  end content  -->
+
+
+</div> <!-- close innertube -->
+</div> <!-- close contentcolumn -->
+</div> <!-- close contentwrapper -->
+<div id="norightcolumn"><div class="innertube"></div></div>
+<!-- deleted pagetools -->
+
+</div> <!-- close inside -->
+
+
+				<div style="clear: both;"></div>
+	<p>			
+			</p>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script type="text/javascript">
+$(function(){
+    $('#correct').click(function(){ 
+        if(!$('#iframe').length) {
+                $('#iframeHolder').html('<iframe id="iframe" src="https://aviation-safety.net/lib/sendcorrection2.php?title=Aviation Safety Network > ASN Aviation Safety Database > 1931" width="100%" height="225" scrolling="no" frameborder="0"></iframe>');
+        }
+    });   
+});
+</script>
+<div id="iframeHolder"></div>
+<!-- correction iframe -->
+	<div class="footernavigation">
+	<ul>	
+	<li><a href="/index.php">Home </a></li>
+	<li><a href="/about/disclaimer.php">Disclaimer</a></li>
+ 	<li><a href="/about/usage33.php">Copyright</a></li>
+	<li><a href="/about/privacy.php">Privacy</a></li>
+  <li><a href="#" id="correct" title="send a correction">Send correction / feedback</a></li>
+
+	<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+	</ul>
+	<ul>
+	<li>Unless otherwise stated: copyright &copy; 1996-2019 Aviation Safety Network (ASN) </li>&nbsp;&nbsp;&nbsp;&nbsp;
+	</ul>
+
+	</div>   <!-- close footernavigation -->
+
+
+ </div>   <!-- close pagetools -->
+
+ 			</div>  <!-- close pagewrap -->
+			
+			<div style="clear: both;"></div>
+			
+<p />			
+			<div id="footer_bar">
+
+			</div>  <!-- close footer bar -->
+
+		<div style="clear: both;"></div>
+
+</body>
+</html>
