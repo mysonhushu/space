@@ -4,6 +4,7 @@ import com.huyouxiao.space.common.context.FileStorageProperties;
 import com.huyouxiao.space.common.enums.ResultEnum;
 import com.huyouxiao.space.common.exception.BusinessException;
 import com.huyouxiao.space.common.utils.DateUtils;
+import com.huyouxiao.space.common.utils.FileUtils;
 import com.huyouxiao.space.dao.entity.CalendarEntity;
 import com.huyouxiao.space.dao.entity.DictionaryEntity;
 import com.huyouxiao.space.dao.entity.FamilyNameEntity;
@@ -36,6 +37,7 @@ import org.springframework.core.io.Resource;
 import org.springframework.core.io.UrlResource;
 import org.springframework.stereotype.Service;
 
+import java.io.File;
 import java.net.MalformedURLException;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -51,6 +53,12 @@ import java.util.Map;
 @Slf4j
 public class FortuneServiceImpl implements FortuneService {
   public static Map<Integer, DictionaryEntity> words = new HashMap<>();
+
+  private String familyNames = "王李张刘陈杨赵黄周吴徐孙胡朱高林何郭马罗梁宋郑谢韩唐冯于董萧程曹袁"
+      + "邓许傅沈曾彭吕苏卢蒋蔡贾丁魏薛叶阎余潘杜戴夏钟汪田任姜范方石姚谭廖邹熊金陆郝孔白崔康"
+      + "毛邱秦江史顾侯邵孟龙万段漕钱汤尹黎易常武乔贺赖龚文庞樊兰殷施陶洪翟安颜倪严牛温芦季俞章鲁葛伍韦申尤毕聂丛焦向柳邢路岳齐沿梅莫庄辛管祝左涂谷祁时舒耿牟卜路詹关苗凌费纪"
+      + "靳盛童欧甄项曲成游阳裴席卫查屈鲍位覃霍翁隋植甘景薄单包司柏宁柯阮桂闵欧阳解强柴华车冉房边辜吉饶刁瞿戚丘古米池滕晋苑邬臧畅宫来嵺苟全褚廉简娄盖符奚木穆党燕郎邸冀谈姬屠连郜晏栾郁商蒙计喻揭窦迟宇敖糜鄢冷卓花仇艾蓝都巩稽井练仲乐虞卞封竺冼原官衣楚佟栗匡宗应台巫鞠僧桑荆谌银扬明沙薄伏岑习胥保和";
+
 
   @Autowired
   CalendarEntityMapper calendarEntityMapper;
@@ -298,6 +306,40 @@ public class FortuneServiceImpl implements FortuneService {
       }
     } catch (MalformedURLException ex) {
       throw new BusinessException(ResultEnum.INVALID_REQUEST_PARAMETER, "File not found " + name);
+    }
+  }
+
+  @Override
+  public void generateNameScoreFile(File file) {
+    List<String> lines = FileUtils.readFileLines(file);
+    for(int i=0; i< familyNames.length(); i++) {
+      String familyName = String.valueOf(familyNames.charAt(i));
+      String fileOut = "诗经高分名字_" + familyName + ".txt";
+      log.info(fileOut);
+      StringBuilder stringBuilder = new StringBuilder();
+      for(String line : lines) {
+        String[] values = line.split("#");
+        String name = familyName + values[1];
+        NameScoreResponse response = this.getNameScore(name);
+        int score = response.getScore();
+        if (score > 95) {
+          stringBuilder.append("☆ ☆ ☆ ☆ ☆ ");
+        } else if (score>90) {
+          stringBuilder.append("  ☆ ☆ ☆   ");
+        } else if (score>85) {
+          stringBuilder.append("  ☆   ☆   ");
+        } else if (score>80) {
+          stringBuilder.append("  ☆   ☆   ");
+        }
+
+        if (score>80) {
+          stringBuilder.append("姓名：" + name + "    " + "五格数理分数:" + score + '\n');
+          stringBuilder.append("引用诗句:"+values[2] + '\n');
+          stringBuilder.append('\n');
+          stringBuilder.append('\n');
+        }
+      }
+      FileUtils.writeFile(fileOut, stringBuilder.toString());
     }
   }
 

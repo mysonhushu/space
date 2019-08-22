@@ -122,6 +122,25 @@ public class NameController {
     return ApiResult.success(fortuneService.getNameScore(request.getName()));
   }
 
+  @EscapeSessionCheck
+  @RequestMapping(value = "/web/name/score-file", method = RequestMethod.POST, headers = "content-type=multipart/form-data")
+  @ApiOperation(value = "generateNameScoreFile", response = ApiResult.class)
+  public ApiResult<Void> generateNameScoreFile(@ApiParam(value="file", required = true) @RequestParam(value="file") MultipartFile file) {
+    try {
+      byte[] bytes = file.getBytes();
+      String fileName =  System.currentTimeMillis()+"_"+file.getOriginalFilename();
+      File tempFile = new File(fileName);
+      Files.write(tempFile.toPath(), bytes);
+      fortuneService.generateNameScoreFile(tempFile);
+
+      //delete temp file.
+      tempFile.delete();
+    } catch (IOException e) {
+      e.printStackTrace();
+      throw new BusinessException(ResultEnum.SYSTEM_ERROR);
+    }
+    return ApiResult.success();
+  }
 
   @EscapeSessionCheck
   @GetMapping("/web/name/list")

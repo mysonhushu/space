@@ -7,6 +7,7 @@ import com.huyouxiao.space.zhouyi.bean.response.FortuneResponse;
 import com.huyouxiao.space.zhouyi.bean.response.NameScoreResponse;
 import org.springframework.core.io.Resource;
 
+import java.io.File;
 import java.util.Date;
 
 public interface FortuneService {
@@ -36,4 +37,6 @@ public interface FortuneService {
   NameScoreResponse getNameScore(String name);
 
   Resource getNameScorePdf(String name);
+
+  void generateNameScoreFile(File file);
 }
