@@ -1,4 +1,9 @@
-﻿U+3687,13959,㚇,9
+﻿MIT License
+Copyright (c) 2018 Kawai Lo
+https://github.com/breezyreeds/kangxi-strokecount
+
+CodePoint,Value,Character,Strokes
+U+3687,13959,㚇,9
 U+3A16,14870,㨖,13
 U+3ADA,15066,㫚,8
 U+3B39,15161,㬹,14
